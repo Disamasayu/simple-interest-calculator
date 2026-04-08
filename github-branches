@@ -1,0 +1,3 @@
+$ git branch -vv
+  bug-fix-typo ac38cc1 Create forked-repo
+* main         ac38cc1 [origin/main] Create forked-repo
